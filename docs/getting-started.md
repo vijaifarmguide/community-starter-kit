@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-please follow open source guideline
+please follow open source guidelines
+- try to add
+  - [ ] Installation instructions
+  - [ ] Completing essential tasks
+  - [ ] Customizing and configuring
