@@ -13,8 +13,8 @@ There are many ways you can help us make this project better. Every repository i
 - **development-needed**: DESCRIPTION PLACEHOLDER
 - **qa-needed**: DESCRIPTION PLACEHOLDER
 - **documentation-needed**: DESCRIPTION PLACEHOLDER
-- **bug-high-priority**: DESCRIPTION PLACEHOLDER
+- **bug-high-priority**: 
 - **bug-low-priority**: DESCRIPTION PLACEHOLDER
-- **help-wanted**: DESCRIPTION PLACEHOLDER
+- **help-wanted**: 
 
 You can also help by translating documentation and reviewing open pull requests.
